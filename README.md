@@ -1,3 +1,5 @@
+**This repository is a work in progress.**
+
 Respondent Driven Sampling is an epidemiological sampling method used to estimate the size of different 'hidden' populations. 
 
 This project demonstrates four simulations of RDS as random walks on networks with different topological structures:
